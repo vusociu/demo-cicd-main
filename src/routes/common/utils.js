@@ -10,5 +10,4 @@ function writeFile(data, path = './upload/avatar') {
 
 }
 
-
 module.exports = {validate}
